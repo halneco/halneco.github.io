@@ -19,8 +19,11 @@ nav-menu: true
 		<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm40632783/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm40632783">【一次創作MMD】フォニイ【エリュー・セントペルム】</a></noscript>
 
 		<p>
-			音源:ツミキ様 振付:しょこら様 モーション:粉ふきスティック様<br>
-			カメラ:ふーみ様 ステージ:怪獣対若大将P様, inuno様
+			音源:ツミキ様<br>
+			振付:しょこら様<br>
+			モーション:粉ふきスティック様<br>
+			カメラ:ふーみ様<br>
+			ステージ:怪獣対若大将P様, inuno様
 		</p>
 	</div>
 </section>
