@@ -13,6 +13,10 @@
     grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
     justify-content: center;
     padding: 4px;
+
+		@include breakpoint(small) {
+      grid-template-columns: repeat(auto-fill,minmax(150px, 1fr));
+		}
   }
 
   .box {
@@ -30,5 +34,9 @@
   transition: all 0.3s ease-in-out;
   &:hover {
     transform: scale(1.05);
+  }
+
+  @include breakpoint(small) {
+    height: 150px;
   }
 }

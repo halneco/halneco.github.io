@@ -150,11 +150,11 @@
 				}
 			}
 
-			&.major {
-				height: auto;
-				min-height: 0;
-				max-height: none;
-			}
+			// &.major {
+			// 	height: auto;
+			// 	min-height: 0;
+			// 	max-height: none;
+			// }
 		}
 
 		@include breakpoint(xsmall) {
