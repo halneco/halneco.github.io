@@ -1,6 +1,8 @@
 # site settings
 title: MONOCHROME
 url: "https://halneco.github.io/"
+imagesurl: "/uploads/gallery/imgs/"
+thumbsurl: "/uploads/gallery/thumbs/"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

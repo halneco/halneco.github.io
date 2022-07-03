@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: GALLERY
 layout: landing
 description: 
 image: assets/images/pic_gallery.png
@@ -12,9 +12,14 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
+		<!-- <header class="major">
 			<h2>Sed amet aliquam</h2>
-		</header>
+		</header> -->
+
+		{% include my-gallery.html folder="/uploads/gallery/imgs" %}
+
+		<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm40632783/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm40632783">【一次創作MMD】フォニイ【エリュー・セントペルム】</a></noscript>
+
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
 </section>
