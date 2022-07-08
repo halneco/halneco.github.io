@@ -7,9 +7,13 @@
 /* Character */
 		.serifu {
 			position: absolute;
-			top:60%;
-			left:10%;
+			top:40%;
+			left:-70%;
 			animation: fadeIn 0.2s ease 0.3s 1 normal;
+		}
+
+		.character {
+			position: relative;
 		}
 
 		@include breakpoint(large) {
@@ -17,8 +21,8 @@
 				writing-mode: vertical-rl;
 
 				position: absolute;
-				top:40%;
-				left:20%;
+				top:10%;
+				left:0;
 			}
 
 		}

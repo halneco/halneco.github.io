@@ -27,13 +27,13 @@ prof2: アルフの双子の弟。<br>魔女である母の血を濃く引継ぎ
 				<p>{{ page.prof2 }}</p>
 			</div>
 
-			<div>
+			<div class="character">
 				<img src="{{ page.character-image }} " />
+				<h3 class="serifu fade-in-bottom">{{ page.serifu }}</h3>
 			</div>
 
 		</div>
 
-		<h3 class="serifu fade-in-bottom">{{ page.serifu }}</h3>
 
 	</div>
 </section>
