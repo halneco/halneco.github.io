@@ -1,0 +1,11 @@
+<div class ="image-gallery">
+  {% assign files = site.html_pages | where_exp: "item", "item.show_tile == false" %}
+  {% for file in files limit:site.characters-count %}
+    {% assign filenameparts = file.path | split: "/" %}
+      {% assign filename = filenameparts | last | replace: file.extname,"" %}
+       <div class="box">
+        <a href="{{ file.url | relative_url }}" title="{{ filename }}" style="border-bottom: none;">
+         <img src="{{ file.image }}" alt="{{ filename }}"  class="img-gallery"/>
+       </a></div>
+  {% endfor %}
+ </div>

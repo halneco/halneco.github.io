@@ -1,6 +1,6 @@
 ---
-title: GALLERY
 layout: landing
+title: GALLERY
 description: 
 image: assets/images/pic_gallery.png
 nav-menu: true

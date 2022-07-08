@@ -1,0 +1,43 @@
+///
+/// Forty by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Character */
+		.serifu {
+			position: absolute;
+			top:60%;
+			left:10%;
+			animation: fadeIn 0.2s ease 0.3s 1 normal;
+		}
+
+		@include breakpoint(large) {
+			.serifu {
+				writing-mode: vertical-rl;
+
+				position: absolute;
+				top:40%;
+				left:20%;
+			}
+
+		}
+
+		/*下からフェードイン*/
+		.fade-in-bottom {
+			opacity: 0;
+			animation-name: fadein-bottom;
+			animation-duration: 1.5s;
+			animation-timing-function: ease-out;
+			animation-fill-mode: forwards;
+		}
+		@keyframes fadein-bottom {
+			0% {
+			opacity: 0;
+			transform: translateY(20px);
+			}
+			100% {
+			opacity: 1;
+			transform: translateY(0);
+			}
+		}
