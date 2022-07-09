@@ -7,7 +7,7 @@
 /* Character */
 		.serifu {
 			position: absolute;
-			top:40%;
+			top:400px;
 			left:-70%;
 			animation: fadeIn 0.2s ease 0.3s 1 normal;
 		}
@@ -16,12 +16,33 @@
 			position: relative;
 		}
 
+		.image-change-botton {
+			position: absolute;
+			top:0%;
+			right:0%;
+			font-size: 14px;
+		}
+
+		.toggle {
+			width: 120px;
+			height: 50px;  
+		  }
+		  
+		  .title-on {
+			display: none;
+			width: 600px;
+		  }
+
+		  .title-off {
+			width: 600px;
+		  }
+
 		@include breakpoint(large) {
 			.serifu {
 				writing-mode: vertical-rl;
 
 				position: absolute;
-				top:10%;
+				top:100px;
 				left:0;
 			}
 
