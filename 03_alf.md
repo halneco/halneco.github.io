@@ -1,14 +1,14 @@
 ---
 layout: page
-title: ROOT
+title: ALF
 nav-menu: true
 show_tile: false
-image: character_thumbs/04_root.png
-character-image: assets/images/root_main.png
-character-name: ルートヴィヒ = ツヴェルガー
-serifu: 「俺は一人で大丈夫だ。<br>　　　兄さんがいなくてもうまくやるさ。」
-prof1: Ludwig=Zwerger age:17 male
-prof2: アルフの双子の弟。冷静沈着な性格。<br>魔女である母の血を濃く引継ぎ、魔法を扱うのが得意。<br>生まれつき呪いにかかっており、永久に死ぬことができない。<br>アルフと呪いを解く方法を探す旅をしている。
+image: character_thumbs/03_alf.png
+character-image: assets/images/alf_main.png
+character-name: アルフレート = ツヴェルガー
+serifu: 「ルート、俺はお前を見捨てない。<br>　　　　　何があっても、絶対に…だ！」
+prof1: Alfred=Zwerger age:17 male
+prof2: ルートの双子の兄。明るくポジティブ。<br>獣人族である父の血を濃く引継ぎ、接近戦が得意。<br>ルートの呪いを解く方法を探すという建前で旅をしているが、<br>実は呪いを解く方法はないことを知っている。
 ---
 
 <!-- Main -->

@@ -35,7 +35,7 @@ prof2: 絶滅したとされる竜人族の女の子。<br>さらわれそうに
 
 				<h3 class="serifu fade-in-bottom">{{ page.serifu }}</h3>
 
-				<a href="#" class="image-change-botton toggle button">2D⇔3D</a>
+				<button type="button" class="image-change-botton toggle button">2D⇔3D</button>
 
 			</div>
 
