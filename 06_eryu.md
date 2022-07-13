@@ -48,7 +48,7 @@ prof2: 絶滅したとされる竜人族の女の子。<br>さらわれそうに
 <!-- Two -->
 <section id="two">
 	<div class="inner">
-		<p>Designed by my Friend. Thanks!</p>
+		<p>Designed by my Friend, 天野きみ. Thanks!</p>
 		<div class="flexcontainer">
 			<img src="assets/images/eryu_siryo1.JPG" style="margin:5px"/>
 			<img src="assets/images/eryu_siryo2.jpg" style="margin:5px"/>
