@@ -10,6 +10,8 @@ character-name: エリュー = セントペルム
 serifu: 「アスティーといつまでも<br>　　　いっしょにいられますように。」
 prof1: Eryu=Sentperm age:14 female
 prof2: 絶滅したとされる竜人族の女の子。<br>さらわれそうになっていたところをアスティーヴに助けられ、<br>それから旅を共にする。アスティーヴのことが大好き。<br>感情が昂ると竜化し、暴走してしまうことがある。
+mini-front: assets/images/eryu_mini_front.jpg
+mini-back: assets/images/eryu_mini_back.jpg
 ---
 
 <!-- Main -->
@@ -48,6 +50,16 @@ prof2: 絶滅したとされる竜人族の女の子。<br>さらわれそうに
 <!-- Two -->
 <section id="two">
 	<div class="inner">
+		<div class="flexcontainer">
+			<img class="miniflexitem" src="{{ page.mini-front }} " style="margin:5px;"/>
+			<img class="miniflexitem" src="{{ page.mini-back }} " style="margin:5px;"/>
+		</div>
+	</div>
+</section>
+
+<!-- Three -->
+<section id="three">
+	<div class="inner">
 		<p>Designed by my Friend, 天野きみ. Thanks!</p>
 		<div class="flexcontainer">
 			<img src="assets/images/eryu_siryo1.JPG" style="margin:5px"/>
@@ -56,8 +68,8 @@ prof2: 絶滅したとされる竜人族の女の子。<br>さらわれそうに
 	</div>
 </section>
 
-<!-- Three -->
-<section id="three">
+<!-- Four -->
+<section id="four">
 	<div class="inner">
 		<header class="major">
 			<h2>CHARACTER</h2>

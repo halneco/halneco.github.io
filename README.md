@@ -1,3 +1,9 @@
+# License
+
+This is created by modified "Forty" theme.
+The source code is licensed same as "Forty".
+But unauthorized copying and replication of the contents of this site, text and images are strictly prohibited.
+
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  

@@ -13,3 +13,9 @@
 		// @include vendor('display', 'flex');
 		// @include vendor('flex-wrap', 'wrap');
 	}
+
+	.miniflexitem {
+		max-width: 300px;
+		min-width: 100px;
+		flex: 1;
+	}

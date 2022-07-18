@@ -1,3 +1,11 @@
+Attention---
+
+This is created by modified "Forty" theme.
+The source code is licensed same as "Forty".
+But unauthorized copying and replication of the contents of this site, text and images are strictly prohibited.
+
+Forty theme License---
+
 Creative Commons Attribution 3.0 Unported
 http://creativecommons.org/licenses/by/3.0/
 
