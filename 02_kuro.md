@@ -3,8 +3,8 @@ layout: page
 title: KURO
 nav-menu: true
 show_tile: false
-image: character_thumbs/02_kuro.png
-character-image: assets/images/kuro_main.png
+image: character_thumbs/02_kuro.PNG
+character-image: assets/images/kuro_main.PNG
 character-name: クロ
 serifu: 「俺の国が…家族が…<br>　　どうして滅ばなければならなかったのか。<br>　　　　　　俺はそれを知りたい。」
 prof1: Kuro age:17 male

@@ -9,8 +9,8 @@ character-name: ルートヴィヒ = ツヴェルガー
 serifu: 「俺は一人で大丈夫だ。<br>　　　兄さんがいなくてもうまくやるさ。」
 prof1: Ludwig=Zwerger age:17 male
 prof2: アルフの双子の弟。冷静沈着な性格。<br>魔女である母の血を濃く引継ぎ、魔法を扱うのが得意。<br>生まれつき呪いにかかっており、永久に死ぬことができない。<br>アルフと呪いを解く方法を探す旅をしている。
-mini-front: assets/images/root_mini_front.jpg
-mini-back: assets/images/root_mini_back.jpg
+mini-front: assets/images/root_mini_front.JPG
+mini-back: assets/images/root_mini_back.JPG
 ---
 
 <!-- Main -->
