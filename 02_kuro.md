@@ -30,7 +30,7 @@ mini-back: assets/images/kuro_mini_back.jpg
 			</div>
 
 			<div class="character">
-				<img src="{{ page.character-image }} " />
+				<img src="{{ page.character-image }} " width="600" height="1080" />
 				<h3 class="serifu fade-in-bottom">{{ page.serifu }}</h3>
 			</div>
 
