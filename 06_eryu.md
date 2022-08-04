@@ -32,8 +32,8 @@ mini-back: assets/images/eryu_mini_back.jpg
 
 			<div class="character">
 
-				<img class="title-off" src="{{ page.character-2Dimage }} " />
-				<img class="title-on" src="{{ page.character-3Dimage }} " />
+				<img class="title-off" src="{{ page.character-2Dimage }}" width="300" height="540" />
+				<img class="title-on" src="{{ page.character-3Dimage }} " width="300" height="540"/>
 
 				<h3 class="serifu fade-in-bottom">{{ page.serifu }}</h3>
 
