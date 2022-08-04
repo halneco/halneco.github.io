@@ -95,8 +95,14 @@
 	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/baguetteBox.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/lazyload.min.js" | absolute_url }}"></script>
 	<script>
 		window.onload = function() {
 		  baguetteBox.run('.image-gallery');
 		};
 	</script>
+	<script type="text/javascript">
+		$(function() {
+		   $("img.lazy").lazyload();
+		});
+	 </script>

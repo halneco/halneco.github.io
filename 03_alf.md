@@ -44,8 +44,8 @@ mini-back: assets/images/alf_mini_back.JPG
 <section id="two">
 	<div class="inner">
 		<div class="flexcontainer">
-			<img class="miniflexitem" src="{{ page.mini-front }} " style="margin:5px;"/>
-			<img class="miniflexitem" src="{{ page.mini-back }} " style="margin:5px;"/>
+			<img class="miniflexitem lazy" src="{{ page.mini-front }} " style="margin:5px;"/>
+			<img class="miniflexitem lazy" src="{{ page.mini-back }} " style="margin:5px;"/>
 		</div>
 	</div>
 </section>
