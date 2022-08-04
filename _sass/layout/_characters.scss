@@ -40,11 +40,8 @@
 		  .character img {
 			width: 100%;
 			height: auto;
+			min-height: 540px;
 			vertical-align: bottom;
-		  }
-
-		  .imgtest {
-			aspect-ratio: 5 / 9;
 		  }
 
 		@include breakpoint(large) {
