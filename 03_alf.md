@@ -30,7 +30,7 @@ mini-back: assets/images/alf_mini_back.JPG
 			</div>
 
 			<div class="character">
-				<img src="{{ page.character-image }}" width="300" height="540" />
+				<img src="{{ page.character-image }}" class="imgtest"/>
 				<h3 class="serifu fade-in-bottom">{{ page.serifu }}</h3>
 			</div>
 

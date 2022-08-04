@@ -43,6 +43,10 @@
 			vertical-align: bottom;
 		  }
 
+		  .imgtest {
+			aspect-ratio: 5 / 9;
+		  }
+
 		@include breakpoint(large) {
 			.serifu {
 				writing-mode: vertical-rl;
