@@ -37,7 +37,11 @@
 			width: 600px;
 		  }
 
-
+		  .character img {
+			width: 100%;
+			height: auto;
+			vertical-align: bottom;
+		  }
 
 		@include breakpoint(large) {
 			.serifu {

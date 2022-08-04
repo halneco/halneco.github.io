@@ -96,10 +96,15 @@
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
 	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
 	<!-- <script src="{{ "assets/js/lightbox.min.js" | absolute_url }}"></script> -->
-	<script src="{{ "assets/js/lightbox.js" | absolute_url }}"></script>
-	<script>
+	<script src="{{ "assets/js/baguetteBox.min.js" | absolute_url }}"></script>
+	<!-- <script>
 	lightbox.option({
 	'disableScrolling': true,
 	'showImageNumberLabel': true
 	})
+	</script> -->
+	<script>
+		window.onload = function() {
+		  baguetteBox.run('.image-gallery');
+		};
 	</script>
