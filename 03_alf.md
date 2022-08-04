@@ -30,7 +30,7 @@ mini-back: assets/images/alf_mini_back.JPG
 			</div>
 
 			<div class="character">
-				<img src="{{ page.character-image }}" width="300" height="540" />
+				<img src="{{ page.character-image }}" alt="" width="300" height="540" />
 				<h3 class="serifu fade-in-bottom">{{ page.serifu }}</h3>
 			</div>
 
@@ -44,8 +44,8 @@ mini-back: assets/images/alf_mini_back.JPG
 <section id="two">
 	<div class="inner">
 		<div class="flexcontainer">
-			<img class="miniflexitem" src="{{ page.mini-front }} " style="margin:5px;" width="150" height="200"/>
-			<img class="miniflexitem" src="{{ page.mini-back }} " style="margin:5px;" width="150" height="200"/>
+			<img class="miniflexitem" src="{{ page.mini-front }} " alt="" style="margin:5px;" width="150" height="200"/>
+			<img class="miniflexitem" src="{{ page.mini-back }} " alt="" style="margin:5px;" width="150" height="200"/>
 		</div>
 	</div>
 </section>
