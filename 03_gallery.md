@@ -16,7 +16,7 @@ nav-menu: true
 			<h2>Sed amet aliquam</h2>
 		</header> -->
 
-		{% include my-gallery.html folder="/uploads/gallery/imgs" %}
+		{% include my-gallery.html folder="/uploads/gallery/imgs" thumbfolder="/uploads/gallery/thumbs/" %}
 
 	</div>
 </section>

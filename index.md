@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'MONOCHROME'
+landing-title: "天命のリヴェル"
 description: null
 image: assets/images/pic_home.jpg
 author: null
