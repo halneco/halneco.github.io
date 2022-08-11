@@ -11,7 +11,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # character
-characters-count: 4
+characters-count: 6
 characters-thumbsurl: "/characters/thumbs/"
 characters-mdurl: "/characters/md/"
 
