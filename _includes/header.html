@@ -9,6 +9,8 @@
 	</nav>
 </header>
 
+
+
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
@@ -24,4 +26,20 @@
 		    {% endif %}
 		{% endfor %}
 	</ul>
+
+	<ul class="icons">
+	{% for key_value in site.socials %}
+	{% if key_value[1] %}
+		<li>
+			<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+				<span class="label">{{ key_value[0] }}</span>
+			</a>
+		</li>
+	{% endif %}
+{% endfor %}
+	<a href="https://halnecoco.booth.pm/" class="icon alt" target="_blank" rel="noopener noreferrer">
+		<img src="assets/images/logo_icon_white_r.png" alt="BOOTHへ飛びます" height="32px" width="32px" style = "vertical-align: bottom">
+	</a>
+</ul>
+
 </nav>

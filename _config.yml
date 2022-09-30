@@ -21,6 +21,7 @@ characters-mdurl: "/characters/md/"
 # You need to restart jekyll for changes to have an effect
 socials:
   Twitter: https://twitter.com/halnecoco
+  cart-shopping: https://halnecoco.booth.pm/
 
 # build settings
 markdown: kramdown
