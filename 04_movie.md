@@ -15,13 +15,6 @@ nav-menu: true
 		<header class="major">
 			<h2>MMD</h2>
 		</header>
-
-		
-		
-		<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm41145259/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm41145259">【一次創作MMD】踊【ルートヴィヒ・ツヴェルガー】</a></noscript>
-		<p>闇堕ちルートヴィヒ 踊</p>
-
-		
 		
 		<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm40863251/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm40863251">【一次創作MMD】Lamb.【ルートヴィヒ・ツヴェルガー】</a></noscript>
 		<p>ルートヴィヒ Lamb.</p>
