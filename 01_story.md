@@ -11,8 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>天命のリヴェル</h2>
-            <p class="title">REBEL:Heaven's will</p>
+			<img src="/assets/images/titleLogo.svg" width="50%"/>
 		</header>
 		<p>青年たちは抗う。<BR>
         己に与えられた"天命"に&#x2015;&#x2015;&#x2015;。</p>
