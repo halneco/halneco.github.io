@@ -4,11 +4,12 @@ title: ALF
 nav-menu: true
 show_tile: false
 image: character_thumbs/03_alf.png
-character-image: assets/images/alf_main.png
+character-2Dimage: assets/images/alf_main.png
+character-3Dimage: assets/images/alf_main2.png
 character-name: アルフレート = ツヴェルガー
 serifu: 「ルート、俺はお前を見捨てない。<br>　　　　　何があっても、絶対に…だ！」
-prof1: Alfred=Zwerger age:17 male
-prof2: ルートの双子の兄。明るくポジティブ。<br>獣人族である父の血を濃く引継ぎ、接近戦が得意。<br>ルートの呪いを解く方法を探すという建前で旅をしているが、<br>実は呪いを解く方法はないことを知っている。
+prof1: Alfred=Zwerger age:18 male
+prof2: ルートの兄。明るくポジティブ。<br>獣人族である父の血を濃く引継ぎ、接近戦が得意。<br>ルートの呪いを解く方法を探すという建前で旅をしているが、<br>実は呪いを解く方法はないことを知っている。
 mini-front: assets/images/alf_mini_front.JPG
 mini-back: assets/images/alf_mini_back.JPG
 ---
@@ -30,8 +31,12 @@ mini-back: assets/images/alf_mini_back.JPG
 			</div>
 
 			<div class="character">
-				<img src="{{ page.character-image }}" alt="" width="300" height="540" />
+				<img class="title-off" src="{{ page.character-2Dimage }}" width="300" height="540" />
+				<img class="title-on" src="{{ page.character-3Dimage }} " width="300" height="540"/>
+
 				<h3 class="serifu fade-in-bottom">{{ page.serifu }}</h3>
+
+				<button type="button" class="image-change-botton toggle button">2D⇔3D</button>
 			</div>
 
 		</div>
