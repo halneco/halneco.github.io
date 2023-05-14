@@ -8,7 +8,7 @@ character-image: assets/images/asti_main.PNG
 character-name: アスティーヴ = クラウザー
 serifu: 「俺にはエリューを守る義務がある。<br>　　　ただ…それだけだ。」
 prof1: Astiv=Krauser age:21 male
-prof2: 竜人族を人為的に生成する実験の実験体。<br>物心ついた時から研究所で実験体として扱われていた。<br>研究所で起こったある事件の混乱に乗じて逃げ出し、放浪の旅をしている。<br>自分が受けてきた実験が竜人族の絶滅に関与していることから、竜人族に対して負い目を感じている。<br>旅の途中で出会った竜人族のエリューを、何があっても守り通すと決意する。
+prof2: 物心ついた時から、竜人族を人為的に生成する<br>実験の実験体として人権なく扱われていた。<br>実験施設で起こったある事件の混乱に乗じて逃げ出し、<br>現在は放浪の旅をしている。<br>旅の途中で出会った竜人族のエリューを、<br>何があっても守り通すと決意する。
 mini-front: assets/images/asti_mini_front.jpg
 mini-back: assets/images/asti_mini_back.jpg
 ---

@@ -8,7 +8,7 @@ character-image: assets/images/shiro_main.PNG
 character-name: シロ
 serifu: 「クロ…ぼくはきみと生きたい。<br>　　　そしてきみを闇から救いたい。」
 prof1: Shiro age:17 male
-prof2: 記憶がない不思議な少年。<br>幼少期に精神だけの存在であるクロと出会い、クロを自分の身体に招き入れた。<br>独り言を言ったり、ぼーっとしていることが多い。<br>シロに救われた人は言う、「すべてが許された気がした。彼は"神"の代理人か」…と。<br>クロのことを家族のように大切に思っている。
+prof2: 記憶がない不思議な少年。<br>幼少期に精神だけの存在であるクロと出会い、<br>クロを自分の身体に招き入れた。<br>独り言を言ったり、ぼーっとしていることが多い。<br>クロのことを家族のように大切に思っている。
 mini-front: assets/images/shiro_mini_front.jpg
 mini-back: assets/images/shiro_mini_back.jpg
 ---

@@ -9,7 +9,7 @@ character-3Dimage: assets/images/alf_main2.png
 character-name: アルフレート = ツヴェルガー
 serifu: 「ルート、俺はお前を見捨てない。<br>　　　　　何があっても、絶対に…だ！」
 prof1: Alfred=Zwerger age:18 male
-prof2: ルートの兄。明るくポジティブ。<br>獣人族である父の血を濃く引継ぎ、接近戦が得意。<br>ルートの呪いを解く方法を探すという建前で旅をしているが、<br>実は呪いを解く方法はないことを知っている。
+prof2: ルートの兄。明るくポジティブ。<br>獣人族である父の血を濃く引継ぎ、接近戦が得意。<br>ルートの呪いを解く方法を探すという目的で旅をしているが、<br>実は呪いを解く方法はないことを知っている。
 mini-front: assets/images/alf_mini_front.JPG
 mini-back: assets/images/alf_mini_back.JPG
 ---
