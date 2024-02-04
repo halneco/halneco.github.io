@@ -49,7 +49,7 @@ nav-menu: true
 	</section>
     <section>
 		<a class="image">
-			<img src="{% link assets/images/story_AlfRoot.PNG %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/story_AlfRoot.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">

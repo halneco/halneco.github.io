@@ -20,8 +20,7 @@ characters-mdurl: "/characters/md/"
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  Twitter: https://twitter.com/halnecoco
-  cart-shopping: https://halnecoco.booth.pm/
+  square-x-twitter: https://twitter.com/halnecoco
 
 # build settings
 markdown: kramdown

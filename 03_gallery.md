@@ -2,7 +2,7 @@
 layout: landing
 title: GALLERY
 description: 
-image: assets/images/pic_gallery.png
+image: assets/images/pic_gallery.jpg
 nav-menu: true
 ---
 

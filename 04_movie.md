@@ -15,6 +15,17 @@ nav-menu: true
 		<header class="major">
 			<h2>MMD</h2>
 		</header>
+
+		<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm42955366/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm42955366">【一次創作MMD】Overdose【クロ】</a></noscript>
+		<p>クロ Overdose</p>
+
+
+		<!-- <p>
+			音源:なとり様<br>
+			振付：りんね様<br>
+			モーション・カメラ：ゆり様<br>
+			ステージ：NOB様<br>
+		</p> -->
 		
 		<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm40863251/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm40863251">【一次創作MMD】Lamb.【ルートヴィヒ・ツヴェルガー】</a></noscript>
 		<p>ルートヴィヒ Lamb.</p>
